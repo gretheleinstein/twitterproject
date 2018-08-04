@@ -1,0 +1,46 @@
+body{
+  height:100vh; x-overflow:hidden; margin-bottom: 5px;
+}
+#div1{
+  background: url('../images/logo/twitter_logo_darker.png');
+  background-color: #1DA1F2;
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+}
+#div1.background{
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.btn-blue{
+  background-color: #1DA1F2;
+  color: white;
+  font-weight: bold;
+}
+
+.btn-outline-blue{
+  border-color: #1DA1F2;
+  font-weight: bold;
+  color: #1DA1F2;
+}
+
+.btn-circle{
+  border-radius: 22px;
+}
+
+.heading{
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+}
+
+.big-text{
+  font-size:30px;
+  font-weight: bold;
+}
+
+.bg-gray{
+  background-color: #E6ECF0;
+}

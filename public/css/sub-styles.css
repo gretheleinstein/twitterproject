@@ -1,0 +1,70 @@
+body{
+  background-color: #E6ECF0;
+}
+
+.card{
+  border-radius: 0;
+}
+
+.card-footer{
+  background-color: #F5F8FA;
+  border: none;
+  padding: 2%;
+}
+
+.heading{
+  color: black;
+}
+
+.btn-blue{
+  background-color: #1DA1F2;
+  color: white;
+  font-weight: bold;
+}
+.btn-circle{
+  border-radius: 22px;
+}
+
+.navbar-light{
+  background-color: white;
+  -webkit-box-shadow: 0 6px 4px -4px #999;
+  -moz-box-shadow: 0 6px 4px -4px #999;
+  box-shadow: 0 6px 4px -4px #999;
+}
+
+#brand{
+  color: #66757F;
+  font-weight: bold;
+  font: 15px;
+}
+
+.full_name{
+  text-transform: capitalize;
+}
+
+.span-error{
+  font-weight: bold;
+  font-size: 12px;
+  color:#DD4F42;
+}
+
+.btn_dialog{
+  border-radius: 200px;
+  font-weight: bolder;
+  color: #A7A8A9;
+}
+
+.acc-name{
+  color: #1DA1F2;
+  font-weight: bold;
+}
+
+.acc-uname{
+  font-weight: lighter;
+  color: #A7A8A9;
+}
+
+.posted-time{
+  color: #818288;
+  font: 8px;
+}
